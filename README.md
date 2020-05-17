@@ -4,8 +4,6 @@
 
 ## Description
 
-This project is the second project of the _Deep Learning nanodegree_, schooled by **Udacity, Inc.** ([https://eu.udacity.com](https://eu.udacity.com/)), a for-profit educational organization offering massive open online courses.
-
 The project objective is to create and train a deep learning classifier that can look at Images or Video Frames and give a detailed textual description of the Image Scene.
 A project like this can have applications in assisting the visually Impaired to perceive and understand their environment and also in creating a platform for labeling Unlabelled Datasets.
 
